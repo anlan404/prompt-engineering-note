@@ -20,4 +20,16 @@
 - [thunlp/*Prompt*Papers](https://github.com/thunlp/PromptPapers)(Must-read papers on *prompt*-based tuning for pre-trained language models.)
 - [manifoldco/*promptui*](https://github.com/manifoldco/promptui)(Interactive *prompt* for command-line applications)
 - [prompt-toolkit/python-*prompt*-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit)(Library for building powerful interactive command line applications in Python)
-- 
+
+## （3）一些镜像网站
+https://chatgptmirror.com/chat
+https://lzw.me/x/chatgpt-sites/
+https://chatgpts-mu.vercel.app/
+https://freechatgpt.lol/
+https://chatgpt.ddiu.me/
+https://chatgpt.ddiu.io
+https://freegpt.one
+https://chat.binjie.site:7777
+https://www.jailbreakchat.com/
+https://chatgpts.ninvfeng.xyz
+https://zhuanlan.zhihu.com/p/25964484
